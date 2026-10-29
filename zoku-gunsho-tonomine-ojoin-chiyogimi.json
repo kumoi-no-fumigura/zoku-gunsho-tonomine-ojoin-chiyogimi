@@ -1,0 +1,86 @@
+{
+ "work": "多武峯往生院千世君歌合",
+ "work_id": "zoku-gunsho-tonomine-ojoin-chiyogimi",
+ "repo": "kumoi-no-fumigura/zoku-gunsho-tonomine-ojoin-chiyogimi",
+ "yomi": "とうのみねおうじょういんちよぎみうたあわせ",
+ "category": "歌合",
+ "kind": "prose",
+ "description": null,
+ "editions": [
+  {
+   "pid": "nao-729558",
+   "title": "続群書類従 巻412（多武峯往生院千世君歌合）",
+   "holder": "国立公文書館",
+   "form": "写本",
+   "viewer": "https://www.digital.archives.go.jp/item/729558",
+   "images": [
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597119100/iiif/M1000000000000067879_0010.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597119200/iiif/M1000000000000067879_0011.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597119300/iiif/M1000000000000067879_0012.jp2",
+    "https://www.digital.archives.go.jp/api/content/item/da12/C102597119400/iiif/M1000000000000067879_0013.jp2"
+   ],
+   "url": "https://www.digital.archives.go.jp/item/729558",
+   "editor": "塙保己一 編",
+   "series": "続群書類従",
+   "publisher": "",
+   "year": null,
+   "pages": ""
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zoku-gunsho-tonomine-ojoin-chiyogimi-0001",
+   "pid": "nao-729558",
+   "pages": [
+    1
+   ],
+   "text": "有栖川兵部卿幸仁親王ニ御つたへ其より背栖一同一品中務卿織仁親王江御伝来ニ明和五年紫野大徳寺寂厳和尚へ御伝へ御座候ヲ中川主税頭豊島大舎人頭両人より世界之名物と申事にて達而申受候其より亡父左兵衛尉伝来仕罷在候候以上多武峰往生院千世君歌合題涼風入簾閑山秋月藪露為玉野花錦延水有幽音恋歌人右仁昭長昭千世君恵勝長嚴長暹左静範明・成厳修勝泉園覚暹判者"
+  },
+  {
+   "id": "zoku-gunsho-tonomine-ojoin-chiyogimi-0002",
+   "pid": "nao-729558",
+   "pages": [
+    2
+   ],
+   "text": "紀伊入道一番涼風入簾左仁昭わきもこかあたり能こすはまかねともまとをしに吹風を涼しき静範右あきかせのみすのまとをしふきかへてなれゑあふきのちしられすわきもこにあふき能こもをくらふれとさたかに見へすこすのまとをし二番閑山秋月長昭左につき故身そみねのこよにすみ口たるつまよふしかこゑはかりして右明一秋のよひつきすみわたる山のはゝたちよる雲のかけたにもなしつまこふるゑかもしかとはきにゆれと山にはらせやたちまさならむ三番蓑露為玉左千世君つきかけにみかける玉とみえつるははきのうはれ露にそ有ける七成厳くさむらのはなはにおける白露はいろ〳〵能くをぬけるなりけり"
+  },
+  {
+   "id": "zoku-gunsho-tonomine-ojoin-chiyogimi-0003",
+   "pid": "nao-729558",
+   "pages": [
+    3
+   ],
+   "text": "しらつゆはゝきのうはらやおきまさるはなにかゝるはあたにみえけりたれはさもあるましきことをこのき見にさりようすとてこゝろゆかす思てなん四番野花錦延恵勝左から国におれる錦きをそれをなをやまとの秋のゝには敷かしな右修勝のへことにさまてに本へるいろ〳〵のはなのにしきとみえわたるかな楽らくにのいろにはし閑ゑあきのゝのはなの錦はつゆのあるなり五番水有幽音左長厳やまかくれやゝ閑すかにそきこゆなる水を谷川の水のなかれは右泉円いはまわく水のおとこそきこゆなれあきのよ深く成るにや有らんひをへつゝ薬すかにむけふたに閑はをよふかきこゑはなをやまさらん六番恋左長暹"
+  },
+  {
+   "id": "zoku-gunsho-tonomine-ojoin-chiyogimi-0004",
+   "pid": "nao-729558",
+   "pages": [
+    4
+   ],
+   "text": "一難にしてここからさむしのふれとかはかりみよりあまる我恋覚暹右あさましやあさまのたけの見ねことにつらきも知らす日遊る我恋みねことにあさまのたけのけふりあひて見にあまるこひのほと母しられす施水宅飲合年月同範永宅歌合年月日十番是野花小鷹狩駒迎十五夜月秋田露属霧鹿擣衣歌人一番野花左勝宮若乳母秋のもしたはのみとりなかりけりにゑきとみゆる花のにほひに右小禅師聖梵一云々"
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "zoku-gunsho-tonomine-ojoin-chiyogimi",
+  "work": "多武峯往生院千世君歌合",
+  "yomi": "とうのみねおうじょういんちよぎみうたあわせ",
+  "category": "歌合",
+  "order": 0,
+  "era": "",
+  "author": "",
+  "kind": "prose",
+  "blocks": 4,
+  "chars": 895,
+  "poems": 0,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-29",
+  "updated_at": "2026-10-29T20:10:33+09:00"
+ }
+}
