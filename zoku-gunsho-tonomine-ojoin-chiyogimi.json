@@ -275,6 +275,10 @@
    "dai": "勝"
   }
  ],
+ "translation": {
+  "count": 4,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-tonomine-ojoin-chiyogimi",
   "work": "多武峯往生院千世君歌合",
@@ -287,7 +291,7 @@
   "blocks": 4,
   "chars": 884,
   "poems": 14,
-  "yaku": 0,
+  "yaku": 4,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T20:43:04+09:00"
